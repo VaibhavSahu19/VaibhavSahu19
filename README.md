@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vaibhavsahu200@gmail.com**
 
-- 📄 [I am a Fresher by experience.](I am a Fresher by experience.)
+- 📄 **I am a Fresher by experience**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
