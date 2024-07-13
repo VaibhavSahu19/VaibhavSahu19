@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavsahu19" alt="vaibhavsahu19" /></a> </p>
 
-- 🔭 I’m currently looking for **any Internships or Jobs.**
+- 🔭 I’m currently looking for **Internship/Job.**
 
 - 🌱 I’m currently learning **MERN Stack**
 
